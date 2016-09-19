@@ -13,7 +13,11 @@ Java Developers Kit (sudo apt-get install openjdk-8-jdk)
 Building the program
 --------------------
 
-Clone the DiffCDISC repository onto your local filesystem using Git.
+Download this entire project as a .zip.
+
+OR
+
+Clone the DiffCDISC repository onto your local filesystem using Git:
 
 C:\> git clone https://github.com/NCIEVS/diff-cdisc.git
 
