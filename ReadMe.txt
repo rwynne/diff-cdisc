@@ -4,11 +4,11 @@ CDISC Changes Report Generator
 This program will generate a changes report between two CDISC releases.
 The releases may span any amount of time.
 
-Requirements
-------------
-Git
-Apache Ant
-Java Developers Kit
+Requirements (with install commands for *nix gurus)
+---------------------------------------------------
+Git (sudo apt-get install git)
+Apache Ant (sudo apt-get install ant)
+Java Developers Kit (sudo apt-get install openjdk-8-jdk)
 
 Building the program
 --------------------
