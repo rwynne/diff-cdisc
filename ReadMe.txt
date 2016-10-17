@@ -85,6 +85,7 @@ Version 2.0 was implemented in 2015
 
 Release notes between 1.0 and 2.0
 ---------------------------------
+
 1. Initialize the diff program if and only if there are 4 program arguments
 2. The "Request Code" column values no longer appear as "unknown" (they are now empty)
 3. Reported changes on non-differing Codelists have been removed
