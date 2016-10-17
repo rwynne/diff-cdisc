@@ -1,5 +1,5 @@
-CDISC Changes Report Generator
-==============================
+CDISC Changes Report Generator v2.0
+===================================
 
 This program will generate a changes report between two CDISC releases.
 The releases may span any amount of time.
@@ -80,3 +80,14 @@ Known issues
 The 'Request Code' column will always be empty as they are stored in the
 JIRA tracking system.  This column is manually populated by EVS before
 each quarterly release.
+
+Version 2.0 was implemented in 2015
+
+Release notes between 1.0 and 2.0
+---------------------------------
+1. Initialize the diff program if and only if there are 4 program arguments
+2. The "Request Code" column values no longer appear as "unknown" (they are now empty)
+3. Reported changes on non-differing Codelists have been removed
+4. Report changes on removed Codelists
+5. Verbaige updates to "Change Types" ("Add" or "Remove on "CDISC Synonyms" is now just "Update" for existing codelists.)
+6. Improved handling of inputs
