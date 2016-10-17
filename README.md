@@ -57,7 +57,9 @@ followed by a "release date" and then the filename of the output.
 C:\DiffCDISC\dist>RunChanges "..\docs\SDTM Terminology 2015-09-25.txt" "..\docs\SDTM Terminology 2015-06-26.txt" "9/25/2015" Changes.txt
 
 Initializing diff report...
+
 Getting changes...
+
 Printing changes report...
 
 About the program
