@@ -72,6 +72,7 @@ of an Update, original and new values are reported.
 - Update CDISC Definition
 - Update CDISC Extensible List
 - Update CDISC Submission Value
+- Update CDISC Synonym
 - Update NCI Preferred Term
 
 Known issues
