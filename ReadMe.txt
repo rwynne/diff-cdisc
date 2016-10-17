@@ -90,5 +90,5 @@ Release notes between 1.0 and 2.0
 2. The "Request Code" column values no longer appear as "unknown" (they are now empty)
 3. Reported changes on non-differing Codelists have been removed
 4. Report changes on removed Codelists
-5. Verbaige updates to "Change Types" ("Add" or "Remove on "CDISC Synonyms" is now just "Update" for existing codelists.)
+5. Verbaige updates to "Change Types" ("Add" or "Remove" on "CDISC Synonyms" is now just "Update" for existing codelists.)
 6. Improved handling of inputs
